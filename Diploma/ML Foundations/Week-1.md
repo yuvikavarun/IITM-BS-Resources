@@ -129,4 +129,3 @@ Let's test the points to find mistakes:
 5. $X=[10, 2]$, True $y=+1$. Formula: $10 + 2 - 10 = 2 \rightarrow sign(2) = +1$. (Match)
 6. $X=[12, 8]$, True $y=-1$. Formula: $12 + 8 - 10 = 10 \rightarrow sign(10) = +1$. **(MISTAKE!)**
 * You made 3 mistakes out of 6 points. Loss = $3/6 = 0.5$.
-```eof
