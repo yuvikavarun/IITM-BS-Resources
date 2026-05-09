@@ -18,13 +18,14 @@
 
 # Graded Assignment 1
 
-### Question 1: Dimensions
-**Q:** $[2, 4, -5]$ belongs to which of the following?
+### Question 1: $[2, 4, -5]$ belongs to which of the following?
+
 **Solution:** The number of items inside the bracket tells you the dimension ($d$). There are 3 numbers.
+
 **Answer:** $\mathbb{R}^3$
 
 ### Question 2: Loss Functions
-**Q:** Which of the following may *not* be an appropriate choice of loss function for regression?
+**Q:**Which of the following may *not* be an appropriate choice of loss function for regression?
 **Solution:** Regression loss measures *distance* (using squares or absolute values). Classification loss *counts mistakes*. 
 **Exam Hack:** If you see the bold **1** (indicator function) or a $\neq$ sign, it belongs to Classification, NEVER Regression.
 **Answer:** $\frac{1}{n} \sum_{i=1}^n \mathbf{1}(f(x_i) \neq y_i)$
