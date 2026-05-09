@@ -9,7 +9,7 @@
    * *Exam Hack:* The Row Space and Null Space are ALWAYS orthogonal to each other. The Column Space and Left Null Space are ALWAYS orthogonal to each other.
 3. **The "Unsolvable" Problem ($Ax = b$):** In the real world, data is noisy. The equation $Ax = b$ almost never has a perfect solution because $b$ doesn't fit perfectly in the Column Space of $A$.
 4. **The Fix (Projections & Least Squares):** Since we can't hit $b$ exactly, we find the closest "shadow" of $b$ on our column space. This is called a **Projection**. 
-   * To find the best estimate ($\hat{x}$), we use the magic **Normal Equation**: $A^T A \hat{x} = A^T b$.
+   * To find the best estimate ($\hat{x}$), we use the **Normal Equation**: $A^T A \hat{x} = A^T b$.
 
 ---
 
