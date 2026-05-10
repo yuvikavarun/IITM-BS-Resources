@@ -3,7 +3,7 @@
 1. [Machine Learning Fundamentals](#1-machine-learning-fundamentals) ~17%
 2. [Multivariable Calculus](#2-multivariable-calculus) ~11%
 3. [Linear Algebra](#3-linear-algebra) ~11%
-4. [Optimization](#4-optimization ~33%
+4. [Optimization](#4-optimization) ~33%
 5. [Probability & Statistics](#5-probability--statistics) ~28%
 
 ---
